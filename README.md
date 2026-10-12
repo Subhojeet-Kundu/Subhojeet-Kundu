@@ -1,16 +1,13 @@
-## Hi there 👋
+<!-- Header / Banner Image -->
+![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Apna%20Naam%20Yahan%20Likhne&fontSize=50)
 
-<!--
-**Subhojeet-Kundu/Subhojeet-Kundu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm [Subhojeet-kundu] 👋
 
-Here are some ideas to get you started:
+I'm a **Frontend Developer** and **Backend Developer**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 *"Crafting logic and elegance in every line of code."*
+
+---
+
+<!-- Pixel Art / Banner Image -->
+![Pixel Art Banner](https://i.imgur.com/your-image-url.gif)
